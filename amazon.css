@@ -1,0 +1,700 @@
+.box-div1{
+    display:flex;
+    flex-direction:column;
+    height:400px;
+    width:320px;
+    margin-left: 25px;
+    margin-bottom:25px;
+    padding-left:33px;
+
+    
+
+
+
+    }
+
+.box-div2{
+
+    display:flex;
+    flex-direction: column;
+}
+
+.box-div3{
+    display:flex;
+    flex-direction: column;
+}
+.para1{
+    display:flex;
+    flex-direction:
+}
+.box-div4{
+    display:flex;
+    flex-direction:row;
+}
+.img1{
+    height:102px;
+    width:135px;
+    
+
+    
+}
+.img2{
+    height:102px;
+    width:135px;
+    
+   
+        
+}
+.img3{
+    height:102px;
+    width:135px;
+    
+
+    
+
+
+}
+.img4{
+    height:102px;
+    width:135px;
+    
+
+}
+.img-div3{
+    margin-left:12px;
+}
+
+.img-div4{
+    margin-left:12px;
+    margin-top:10px;
+}
+.img-div2{
+    margin-top:10px;
+    
+}
+
+.para1{
+    width:250px;
+;
+}
+.para2{
+    width:250px;
+}
+.jj1{
+    margin-top:0px;
+}
+.jj2{
+    margin-top:0px;
+}
+.jj3{
+    margin-top:0px;
+}
+.jj4{
+    margin-top:0px;
+}
+.af:hover{
+   
+            text-decoration: underline;
+            font-family: Arial, sans-serif;
+            cursor: pointer;
+            color: #007185;
+
+        
+}
+.gf:hover{
+
+    text-decoration: underline;
+            font-family: Arial, sans-serif;
+            cursor: pointer;
+            color: #007185;
+
+
+}
+
+
+.main-div1{
+   display:flex;
+   flex-direction: row;
+   position:relative;
+   margin-top:70px;
+   
+
+}
+
+.main-div2{
+
+    display:flex;
+   flex-direction: row;
+   
+   
+
+
+}
+.backimg{
+    height:100%;
+    width:1500px;
+    margin-left:9px;
+}
+
+.divtan{
+    height:265px;
+    width::920px;
+    padding-top:10px;
+    padding-bottom:10px;
+    margin-left:23px;
+    padding-left:30px;
+    margin-bottom:30px;
+    
+    display:flex;
+    flex-direction:column;
+    
+    
+    
+
+}
+
+.divtann{
+
+
+    height:265px;
+    flex:1;
+    padding-top:10px;
+    padding-bottom:10px;
+    margin-left:-25px;
+    padding-left:30px;
+    margin-bottom:30px;
+    
+    display:flex;
+    flex-direction:column;
+
+}
+
+.box-divv{
+display:flex;
+flex-direction:row;
+}
+
+.plant{
+width:300px;
+height:280px;
+}
+
+.box-div9{
+
+display:flex;
+    flex-direction:column;
+    height:400px;
+    width:304px;
+    margin-left: 25px;
+    margin-bottom:25px;
+    padding-left:20px;
+    padding-right:20px;
+
+
+}
+.para9{
+width:300px;
+}
+
+.dingdong{
+display:flex;
+flex-direction: row;
+}
+.section5-box4{
+display:flex;
+flex-direction:column;
+
+}
+.section5-box4n{
+display:flex;
+flex-direction: column;
+padding-left: 20px;
+
+}
+.section5-boxnm{
+display:flex;
+flex-direction:row;
+
+}
+.photos{
+width: 130px;
+height:140px;
+}
+
+.jjj6{
+width:170px;
+height:210px;
+}
+.jjjj6{
+
+width:190px;
+margin-top:20px;
+}
+
+.add1{
+
+height:245px;
+width:958px;
+
+}
+
+.add-div{
+display:flex;
+margin-top:23px;
+margin-bottom: 23px;
+margin-left:230px;
+}
+
+.dingdong2{
+
+margin-left:-50px;
+display:flex;
+flex-direction: row;
+
+
+}
+
+.mainn-div1{
+
+margin-left:-50px;
+display:flex;
+flex-direction:row;
+
+}
+
+
+.img11{
+height:95px;
+width:96px;       
+}
+
+.header{
+display:flex;
+position:fixed;
+flex-direction:row;
+background-color: rgb(31, 26, 26);
+left: 0px;
+right: 0px;
+top: 0px;
+height:60px;
+margin-top:0px;
+margin-bottom: 0px;
+padding-top:5px;
+z-index: 5;
+}
+
+.amazonlogo{
+height:49px;
+width:114.725px;
+margin-left:20px;
+margin-top:3px;
+}
+
+.header2{
+width:180.375px;
+height:48.400px;
+}
+
+.locationdiv2{
+display: flex;
+flex-direction: column;
+margin-top:2px;
+}
+
+.location-div1{
+margin-top:12px;
+}
+
+.location-logo{
+width: 18px;
+margin-top:5px;
+margin-right:2px;
+}
+
+
+.amazon-logo{
+
+width:114px;
+height: 49;
+
+}
+.amazon{
+margin-top:5px;
+margin-left:15px;
+}
+
+.master{
+margin-top:7px;
+margin-left:22px;
+}
+
+
+.search-container {
+background-color: red;
+margin-left: 25px;
+width: 750px;
+display: flex;
+height: 40px;
+justify-content: space-between;
+border-radius: 3px;
+overflow: hidden;
+margin-top:7px;
+}
+
+.search-container:hover {
+outline: 3px solid orange;
+
+}
+
+.search-select {
+width: 60px;
+border: none;
+background-color: rgb(230, 227, 227);
+padding-left:6px;
+padding-right:5px;
+}
+
+.search-input {
+width: 100%;
+height: 100%;
+border: none;
+outline: none;
+padding: 3px;
+font-size: 1.1rem;
+}
+
+.search-icon {
+width: 50px;
+background-color: rgb(235, 160, 94);
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 1.2rem;
+color: #000;
+}
+
+
+.search-icon1{
+
+width: 25px;
+}
+
+
+
+
+
+.language-container {
+font-size:13px;
+display:flex;
+flex-direction:row;
+font-weight: bold;
+font-family: Arial, sans-serif;
+margin-left:25px;
+margin-top:4px;
+position:relative;
+}
+
+
+
+.amazondropdown{
+
+
+position:absolute;
+left:41px;
+top:23px;
+
+
+
+
+
+
+
+}
+
+.amazo{
+width: 13px;
+}
+
+
+.flag{
+width:20px;
+margin-top:20px;
+
+
+}
+
+.login-container{
+display:flex;
+flex-direction:column;
+color:white;
+margin-left:25px;
+margin-top:-5px;
+font-family: Arial, sans-serif;
+margin-right:5px;
+position:relative;
+
+
+
+
+}
+
+
+
+.amazondropdown2{
+
+position:absolute;
+left:110px;
+top:30px;
+
+}
+
+.amazo2{
+width: 13px;
+}
+
+
+.return-container{
+
+display:flex;
+flex-direction:column;
+color:white;
+margin-left:22px;
+margin-top:px;
+font-family: Arial, sans-serif;
+
+
+
+}
+
+
+
+
+.amazon-cart{
+
+width:75px;
+}
+
+.amazon-cart1{
+
+margin-left:25px;
+margin-top:14px;
+}
+
+
+.header-section2{
+
+display:flex;
+flex-direction: row;
+
+
+    border-color: green;
+
+background-color:rgb(36, 36, 51);
+margin-left:0px;
+height:39px;
+width:1519px;
+
+
+
+
+
+
+
+
+
+}
+
+.amazo3{
+margin-left:2px;
+margin-top:13px;
+
+
+
+}
+
+
+
+
+.hamburger{
+
+width:22px;
+}
+
+
+.amazo7{
+
+margin-top: 13px;
+margin-left:2px;
+}
+.main-master1{
+
+position:absolute;
+
+top:350px;
+bottom: 500px;
+
+
+}
+
+
+.main-div1{
+
+
+}
+
+.backimg{
+align-items: center;
+margin-top:-17px;
+
+}
+
+
+
+.sign-in{
+
+width: 230px;
+height:30px;
+box-shadow: 0;
+background-image: linear-gradient(to top, gold, rgb(228, 201, 44));
+box-shadow: 0px 0px 0px;
+border-width: 0px;
+border-radius:5px;
+cursor:pointer;
+
+}
+
+
+.amazon-logo2{
+
+width:100px;
+}
+.globe-div{
+
+width:100px;
+margin-top:5px;
+margin-left:2px;
+}
+
+.flag-div{
+
+width:70px;
+margin-left:7px;
+margin-top:3px;
+}
+
+.lastbox-div:hover{
+
+text-decoration: underline;
+text-decoration-color:#007185;
+cursor: pointer;
+}
+
+.nav-arrow-left{
+
+width:40px;1
+
+}
+
+.nav-arrow-div1{
+
+float:left;
+position:absolute;
+z-index: 6;
+top:104px;
+
+height:240px;
+width:70px;
+cursor: pointer;
+
+
+}
+
+.nav-arrow-left{
+
+margin-top:100px;
+margin-left:15px;
+}
+.nav-arrow-div1:hover{
+
+
+left:10px;
+border-style: solid;
+border-color: white;
+cursor: pointer;
+
+
+}
+.nav-arrow-right{
+
+width:40px;
+}
+
+
+.nav-arrow-div2{
+
+
+position:absolute;
+z-index: 6;
+top:204px;
+left:1460px;
+
+height:240px;
+width:70px;
+cursor: pointer;
+margin-top:-100px;
+margin-left:-26px;
+
+
+}
+
+
+.nav-arrow-div2:hover{
+
+
+
+border-style: solid;
+border-color: white;
+cursor: pointer;
+
+}
+
+.nav-arrow-right{
+margin-bottom:-120px;
+margin-left:23px;
+}
+
+.nav-arrow-div11{
+
+float:left;
+position:absolute;
+z-index: 6;
+top:1350px;
+
+}
+
+.nav-arrow-left1{
+
+width:40px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
